@@ -1,3 +1,4 @@
+//Crea un programa que genere y muestre una serie de números aleatorios entre 0 y un número máximo especificado por el usuario
 #include<iostream>
 #include <cstdlib>
 using namespace std;
