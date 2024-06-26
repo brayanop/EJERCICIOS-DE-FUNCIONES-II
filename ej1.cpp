@@ -1,3 +1,4 @@
+//Implementa un programa que calcule el área de un círculo dado su radio. 
 #include<bits/stdc++.h>
 #include"funciones.h"
 using namespace std;
