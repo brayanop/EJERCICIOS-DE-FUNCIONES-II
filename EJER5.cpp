@@ -1,3 +1,4 @@
+// Amplía el ejercicio anterior definiendo una función void llamada calcularRaices que reciba los coeficientes de la ecuación (a, b, c) por valor y las variables donde se almacenarán las raíces por referencia. 
 #include <iostream>
 #include <cmath>
 
@@ -25,7 +26,6 @@ void calcularRaices(float a, float b, float c) {
 
 int main() {
     float a, b, c;
-
     cout << "Ingrese el coeficiente a: ";
     cin >> a;
     cout << "Ingrese el coeficiente b: ";
@@ -33,6 +33,5 @@ int main() {
     cout << "Ingrese el coeficiente c: ";
     cin >> c;
     calcularRaices(a, b, c);
-
     return 0;
 } 
